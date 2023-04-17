@@ -1,8 +1,9 @@
 #include <iostream>
+#include "funciones.h"
 
 using namespace std;
 
-void clasificarAngulo() {
+void clasificar_angulo() {
     int medida_angulo;
     cout << "Ingrese la medida del ángulo: ";
     cin >> medida_angulo;
